@@ -1,0 +1,158 @@
+@media screen and (min-width: 10px) and (max-width: 400px) {
+  nav .container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  nav .container .right a {
+    font-size: 13px;
+  }
+
+  nav .container .right .search input {
+    display: none;
+  }
+
+  nav .container .right .search button {
+    display: none;
+  }
+
+  .start {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .start img {
+    width: 220px;
+    height: 220px;
+  }
+  .img img {
+    width: 250px;
+    height: 350px;
+  }
+
+  .flower .container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .flower .container .cardm img {
+    width: 250px;
+    height: 250px;
+  }
+
+  .footer .container {
+    display: flex;
+    width: 1200px;
+    flex-direction: column;
+  }
+}
+
+@media screen and (min-width: 401px) and (max-width: 800px) {
+  nav .container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  nav .container .right a {
+    font-size: 15px;
+  }
+
+  nav .container .right .search input {
+    display: none;
+  }
+
+  nav .container .right .search button {
+    display: none;
+  }
+
+  .start {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .start img {
+    width: 220px;
+    height: 220px;
+  }
+  .img img {
+    width: 250px;
+    height: 350px;
+  }
+
+  .flower .container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .flower .container .cardm img {
+    width: 250px;
+    height: 250px;
+  }
+
+  .footer .container {
+    display: flex;
+    width: 1200px;
+    flex-direction: column;
+  }
+}
+
+@media screen and (min-width: 801px) and (max-width: 1000px) {
+  nav .container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  nav .container .right a {
+    font-size: 15px;
+  }
+
+  nav .container .right .search input {
+    display: none;
+  }
+
+  nav .container .right .search button {
+    display: none;
+  }
+
+  .start {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .start img {
+    width: 220px;
+    height: 220px;
+  }
+  .img img {
+    width: 250px;
+    height: 350px;
+  }
+
+  .flower .container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .flower .container .cardm img {
+    width: 250px;
+    height: 250px;
+  }
+
+  .footer .container {
+    display: flex;
+    width: 1200px;
+    flex-direction: column;
+  }
+}
